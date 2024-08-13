@@ -1,4 +1,4 @@
-package co.edu.uniquindio.controlcitas.controlcitasapp;
+package co.edu.uniquindio.gestorCitas.gestorCitasapp;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
