@@ -120,7 +120,7 @@ public class SalaSistemasUtils {
     }
 
     public static ObservableList<String> agregarHoras() {
-        ObservableList<String>  horario = FXCollections.observableArrayList("07:00-08:00", "08:00-09:00", "09:00-10:00", "10:00-11:00", "11:00-12:00", "14:00-15:00", "15:00-16:00", "16:00-17:00");
+        ObservableList<String>  horario = FXCollections.observableArrayList( "08:00-09:00", "09:00-10:00", "10:00-11:00", "11:00-12:00", "14:00-15:00", "15:00-16:00", "16:00-17:00");
         return horario;
     }
 }
